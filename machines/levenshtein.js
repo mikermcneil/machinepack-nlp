@@ -4,7 +4,7 @@ module.exports = {
   friendlyName: 'Get Levenshtein distance',
 
 
-  description: 'Determine the Levenstein distance between two strings.',
+  description: 'Determine the Levenshtein distance between two strings.',
 
 
   extendedDescription: 'The Levenshtein distance is a number that helps quantify the difference between two strings.  Informally, the Levenshtein distance between two words is the minimum number of single-character edits (i.e. insertions, deletions or substitutions) required to change one word into the other.',
